@@ -6,7 +6,7 @@
 
 ## Setup
 
-Run _npm install winston_
+Run `npm install winston`
 
 ```js
 import winston from "winston";
