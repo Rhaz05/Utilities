@@ -9,4 +9,4 @@ _Here are some of the utilities I use in my projects._
 
 ## JQuery
 
-- [AJAX](./AJAX/ajax.util.md)
+- [AJAX](./JQuery/ajax.util.md)
