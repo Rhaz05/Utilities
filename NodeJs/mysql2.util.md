@@ -7,7 +7,7 @@
 
 ## Setup
 
-Run _npm install mysql2_
+Run `npm install mysql2`
 
 ```js
 const mysql = require("mysql2/promise");
